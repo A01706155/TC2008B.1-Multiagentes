@@ -44,15 +44,15 @@ Aprender a utilizar Unity sobre los sistemas multiagentes para poder usarlo en i
 ### Propuesta formal del reto:
 1. __Descripción del reto a desarrollar.__
     El crecimiento acelerado de las ciudades ha crecido mucho en los últimos años. El problema de esto es que se genera congestión y pérdidas de dinero porque se gasta más combustible durante la espera del tráfico.
-    <n>
+    &nbsp;
     Se han intentado utilizar estrategias para arreglar el problema del tráfico, por ejemplo el cobro de rutas de alta demanda. Pero provocó que ahora se congestionara tráfico en otras zonas.
-    <n>
+    &nbsp;
     Otra forma de solución que se intentó fue el "Hoy no circula", que no fue muy efectivo, ayudó poco en México.
-    <n>
+    &nbsp;
     El último recurso que queda para poder arreglar este problema es utilizar las Tecnologías de la Información y la Comunicación ya que ahora los avances tecnológicos que existen nos permiten la creación de sistemas de tráfico autónomos que pueden optimizarlo todo en base a las variables de tráfico actuales.
-    <n>
+    &nbsp;
     Para poner esto a prueba antes de sacarlo como tal a la vida real, se nos pide realizar una simulación en un entorno gráfico 3D utilizando Unity, donde los carros estarán controlados mediante autómatas y unos semáforos en una intersección de cuatro calles tomarán las mejores decisiones en base al tráfico actual.
-    <n>
+    &nbsp;
     __Las condiciones para esta prueba son las siguientes:__
     1. Las calles son de doble sentido
     2. La velocidad máxima es de 60km/h
@@ -62,10 +62,10 @@ Aprender a utilizar Unity sobre los sistemas multiagentes para poder usarlo en i
     6. Los vehículos que transitan los caminos comunican a la caja de control sobre su destino. (derecho, izquierda, derecha) y tiempo aproximado de llegada.
     7. Si no hay vehículos, todos los semáforos deben ser rojos.
     
-    <br>
+    &nbsp;
     El objetivo de la caja de control es minimizar el tiempo promedio de espera de los vehículos que cruzan la intersección.
 
-    <br><br>
+    <br>
 
 2. __Identificación de los agentes involucrados__
     (Identificar de manera completa los agentes y las posibles relaciones entre los mismos)
