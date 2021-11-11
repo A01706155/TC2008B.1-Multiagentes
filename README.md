@@ -3,13 +3,13 @@ Este es el repositorio de código para el proyecto de autómatas para simular tr
 
 ### Conformación del equipo:
 
-##### Integrantes del equipo:
+#### Integrantes del equipo:
 * Eduardo Rodríguez Gil (A01274913)
 * Michelle Aylin Calzada Montes (A01706202)
 * Manolo Ramírez Pintor (A01706155)
 <br>
 
-##### Fortalezas y áreas de oportunidad:
+#### Fortalezas y áreas de oportunidad:
 Fortalezas:
 * __Eduardo__ - Python, C#
 * __Michelle__ - Python, C#
@@ -22,11 +22,11 @@ Fortalezas:
 <br>
 
 
-##### Expectativas del bloque
+#### Expectativas del bloque
 Aprender a utilizar Unity sobre los sistemas multiagentes para poder usarlo en interligencia artificial para videojuegos. 
 <br>
 
-##### Compromisos para lograrlo
+#### Compromisos para lograrlo
 * Tener una buena organización.
 * No dejar todo para la semana 5.
 * Aprender a utilizar las herramientas.
@@ -35,24 +35,24 @@ Aprender a utilizar Unity sobre los sistemas multiagentes para poder usarlo en i
 
 ### Creación de herramientas de trabajo colaborativo:
 
-##### Herramientas de trabajo colaborativo
+#### Herramientas de trabajo colaborativo
 
 * Este repositorio para el trabajo principal.
 * Discord y WhatsApp para comunicación.
 <br>
 
 ### Propuesta formal del reto:
-1. __Descripción del reto a desarrollar.__
+1. __Descripción del reto a desarrollar.__<br>
     El crecimiento acelerado de las ciudades ha crecido mucho en los últimos años. El problema de esto es que se genera congestión y pérdidas de dinero porque se gasta más combustible durante la espera del tráfico.
-    &nbsp;
+    <br><br>
     Se han intentado utilizar estrategias para arreglar el problema del tráfico, por ejemplo el cobro de rutas de alta demanda. Pero provocó que ahora se congestionara tráfico en otras zonas.
-    &nbsp;
+    <br><br>
     Otra forma de solución que se intentó fue el "Hoy no circula", que no fue muy efectivo, ayudó poco en México.
-    &nbsp;
+    <br><br>
     El último recurso que queda para poder arreglar este problema es utilizar las Tecnologías de la Información y la Comunicación ya que ahora los avances tecnológicos que existen nos permiten la creación de sistemas de tráfico autónomos que pueden optimizarlo todo en base a las variables de tráfico actuales.
-    &nbsp;
+    <br><br>
     Para poner esto a prueba antes de sacarlo como tal a la vida real, se nos pide realizar una simulación en un entorno gráfico 3D utilizando Unity, donde los carros estarán controlados mediante autómatas y unos semáforos en una intersección de cuatro calles tomarán las mejores decisiones en base al tráfico actual.
-    &nbsp;
+    <br><br>
     __Las condiciones para esta prueba son las siguientes:__
     1. Las calles son de doble sentido
     2. La velocidad máxima es de 60km/h
