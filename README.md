@@ -68,10 +68,18 @@ Aprender a utilizar Unity sobre los sistemas multiagentes para poder usarlo en i
     <br>
 
 2. __Identificación de los agentes involucrados__
-    (Identificar de manera completa los agentes y las posibles relaciones entre los mismos)
+    a. (Identificar de manera completa los agentes y las posibles relaciones entre los mismos)
+    * Agentes reactivos simples:
+        * Son agentes que toman desiciones de forma aleatoria sin tomar en cuenta el estado del entorno o en otras palabras no son conscientes del mundo y las causas de las acciones realizadas.<br><br>
+
+    * Agentes basados en objetivos:
+        * Son agentes que toman desiciones basadas en el estado del entorno, el cambio del mismo y las consecuencias de las acciones que se toman. Es decir que son conscientes del entorno y lo que sucede en él.<br><br>
+
     * Diagrama de clase presentando los distintos agentes involucrados.
+        * Imagen
     * Diagrama de protocolos de interacción.
-    <br>
+        * Imagen
+    <br><br>
 
 3. __Plan de trabajo y aprendizaje adquirido.__
     _Incluir el plan de trabajo actualizado y el aprendizaje adquirido como equipo_
