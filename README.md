@@ -77,11 +77,11 @@ Aprender a utilizar Unity sobre los sistemas multiagentes para poder usarlo en i
         * Son agentes que toman desiciones basadas en el estado del entorno, el cambio del mismo y las consecuencias de las acciones que se toman. Es decir que son conscientes del entorno y lo que sucede en él.<br><br>
 
     * Diagrama de clase presentando los distintos agentes involucrados.
-        * Caja de control
+        * Caja de control<br>
         ![Alt text](Diagramas/CajaContro.png?raw=true "Title")<br><br>
-        * Carro
+        * Carro<br>
         ![Alt text](Diagramas/Carro.png?raw=true "Title")<br><br>
-        * Semáforo:
+        * Semáforo:<br>
         ![Alt text](Diagramas/Semaforo.png?raw=true "Title")<br><br>
 
     * Diagrama de protocolos de interacción.
@@ -97,9 +97,9 @@ Aprender a utilizar Unity sobre los sistemas multiagentes para poder usarlo en i
     * Caja de control:
         * Es un agente que recibe la información de los carros para determinar qué semáforo se debe encender dependiendo de la prioridad que se deba establecer en cierta vialidad. <br><br>
 
-3. __Plan de trabajo y aprendizaje adquirido.__
+3. __Plan de trabajo y aprendizaje adquirido.__<br>
     En este plan de trabajo asignamos las tareas a los integrantes del equipo en las áreas donde nos apasiona trabajar más y en donde sentimos que somos que tenemos un fuerte para hacer las cosas. Se puede ver cada tarea, el estatus, las fechas de inicio, entrega, la complejidad de la tarea y el estado (_No iniciado, En progreso y Completado_) para llevar un mejor control de cómo avanza nuestro proyecto.
     * Link del plan de trabajo: https://docs.google.com/spreadsheets/d/1SgBKHuhkFkiXe7oIPeWwVcgENM8nqlzAs02Dx2amhDM/edit#gid=0 <br><br>
 
-4. __Despliegue de la aplicación__
+4. __Despliegue de la aplicación__<br>
     La app se puede abrir desde Unity mientras el servidor de Python está corriendo en el servidor de IBM para recibir los datos generados y correr toda la simulación en el entorno gráfico 3D que hemos preparado.
