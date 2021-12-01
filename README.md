@@ -1,15 +1,15 @@
 # TC2008B.1-Multiagentes
 Este es el repositorio de código para el proyecto de autómatas para simular tráfico y optimizarlo.
 
-### Conformación del equipo:
+## Conformación del equipo:
 
-#### Integrantes del equipo:
+### Integrantes del equipo:
 * Eduardo Rodríguez Gil (A01274913)
 * Michelle Aylin Calzada Montes (A01706202)
 * Manolo Ramírez Pintor (A01706155)
 <br>
 
-#### Fortalezas y áreas de oportunidad:
+### Fortalezas y áreas de oportunidad:
 Fortalezas:
 * __Eduardo__ - Python, C#
 * __Michelle__ - Python, C#
@@ -22,26 +22,26 @@ Fortalezas:
 <br>
 
 
-#### Expectativas del bloque
+### Expectativas del bloque
 Aprender a utilizar Unity sobre los sistemas multiagentes para poder usarlo en interligencia artificial para videojuegos. 
 <br>
 
-#### Compromisos para lograrlo
+### Compromisos para lograrlo
 * Tener una buena organización.
 * No dejar todo para la semana 5.
 * Aprender a utilizar las herramientas.
 * Acercarnos más con los profesores.
 <br>
 
-### Creación de herramientas de trabajo colaborativo:
+## Creación de herramientas de trabajo colaborativo:
 
-#### Herramientas de trabajo colaborativo
+### Herramientas de trabajo colaborativo
 
 * Este repositorio para el trabajo principal.
 * Discord y WhatsApp para comunicación.
 <br>
 
-### Propuesta formal del reto:
+## Propuesta formal del reto:
 1. __Descripción del reto a desarrollar.__<br>
     El crecimiento acelerado de las ciudades ha crecido mucho en los últimos años. El problema de esto es que se genera congestión y pérdidas de dinero porque se gasta más combustible durante la espera del tráfico.
     <br><br>
