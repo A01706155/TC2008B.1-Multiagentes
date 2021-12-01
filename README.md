@@ -76,7 +76,7 @@ Aprender a utilizar Unity sobre los sistemas multiagentes para poder usarlo en i
     * Agentes basados en objetivos:
         * Son agentes que toman desiciones basadas en el estado del entorno, el cambio del mismo y las consecuencias de las acciones que se toman. Es decir que son conscientes del entorno y lo que sucede en él.<br><br>
 
-    * Diagrama de clase presentando los distintos agentes involucrados.
+    * __Diagrama de clase presentando los distintos agentes involucrados.__
         * Caja de control<br>
         ![Alt text](Diagramas/CajaContro.png?raw=true "Title")<br><br>
         * Carro<br>
@@ -84,7 +84,7 @@ Aprender a utilizar Unity sobre los sistemas multiagentes para poder usarlo en i
         * Semáforo:<br>
         ![Alt text](Diagramas/Semaforo.png?raw=true "Title")<br><br>
 
-    * Diagrama de protocolos de interacción.
+    * __Diagrama de protocolos de interacción.__<br>
         ![Alt text](Diagramas/ProtocolosInteraccion.png?raw=true "Title")<br><br>
 
     __Agentes Involucrados:__
