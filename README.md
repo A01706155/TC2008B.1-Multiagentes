@@ -68,7 +68,8 @@ Aprender a utilizar Unity sobre los sistemas multiagentes para poder usarlo en i
     <br>
 
 2. __Identificación de los agentes involucrados__
-    a. (Identificar de manera completa los agentes y las posibles relaciones entre los mismos)
+    a. (Identificar de manera completa los agentes y las posibles relaciones entre los mismos)<p>
+    __Los tipos de agentes:__
     * Agentes reactivos simples:
         * Son agentes que toman desiciones de forma aleatoria sin tomar en cuenta el estado del entorno o en otras palabras no son conscientes del mundo y las causas de las acciones realizadas.<br><br>
 
@@ -76,12 +77,29 @@ Aprender a utilizar Unity sobre los sistemas multiagentes para poder usarlo en i
         * Son agentes que toman desiciones basadas en el estado del entorno, el cambio del mismo y las consecuencias de las acciones que se toman. Es decir que son conscientes del entorno y lo que sucede en él.<br><br>
 
     * Diagrama de clase presentando los distintos agentes involucrados.
-        * Imagen
+        * Caja de control
+        ![Alt text](Diagramas/CajaContro.png?raw=true "Title")<br><br>
+        * Carro
+        ![Alt text](Diagramas/Carro.png?raw=true "Title")<br><br>
+        * Semáforo:
+        ![Alt text](Diagramas/Semaforo.png?raw=true "Title")<br><br>
+
     * Diagrama de protocolos de interacción.
-        * Imagen
-    <br><br>
+        ![Alt text](Diagramas/ProtocolosInteraccion.png?raw=true "Title")<br><br>
+
+    __Agentes Involucrados:__
+    * Carro:
+        * Estos agentes determinarán el comportamiento de los semáforos a través de la comunicación con la caja de control. También los coches interactuarán entre ellos para evitar chocar<br><br>
+
+    * Semáforo:
+        * Son agentes que interactúan directamente con los carros y con la caja de control para recibir la información de los carros del entorno. Su función es cambiar de color e informar a los carros que pueden avanzar.<br><br>
+
+    * Caja de control:
+        * Es un agente que recibe la información de los carros para determinar qué semáforo se debe encender dependiendo de la prioridad que se deba establecer en cierta vialidad. <br><br>
 
 3. __Plan de trabajo y aprendizaje adquirido.__
-    _Incluir el plan de trabajo actualizado y el aprendizaje adquirido como equipo_
-    * Las actividades pendientes y el tiempo en el que se realizarán.
-    * Para las actividades planeadas para la primera revisión, los responsables de llevarlas a cabo, la fecha en las que las realizarán y el intervalo de esfuerzo estimado.
+    En este plan de trabajo asignamos las tareas a los integrantes del equipo en las áreas donde nos apasiona trabajar más y en donde sentimos que somos que tenemos un fuerte para hacer las cosas. Se puede ver cada tarea, el estatus, las fechas de inicio, entrega, la complejidad de la tarea y el estado (_No iniciado, En progreso y Completado_) para llevar un mejor control de cómo avanza nuestro proyecto.
+    * Link del plan de trabajo: https://docs.google.com/spreadsheets/d/1SgBKHuhkFkiXe7oIPeWwVcgENM8nqlzAs02Dx2amhDM/edit#gid=0 <br><br>
+
+4. __Despliegue de la aplicación__
+    La app se puede abrir desde Unity mientras el servidor de Python está corriendo en el servidor de IBM para recibir los datos generados y correr toda la simulación en el entorno gráfico 3D que hemos preparado.
