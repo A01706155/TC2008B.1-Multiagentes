@@ -1,0 +1,4 @@
+---
+applications:
+ - name: Cars5
+   random-route: true
