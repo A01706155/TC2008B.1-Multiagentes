@@ -33,7 +33,7 @@ port = int(os.getenv('PORT', 8045))
 carros = 20
 
 # Duración máxima de la animación
-DURACION = 70
+DURACION = (70)
 
 model = CarreteraModel(carros)
 
